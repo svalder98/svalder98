@@ -262,7 +262,6 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 </div>
 
 ---
----
 
 ## Auto-updated Engineering Signals
 
