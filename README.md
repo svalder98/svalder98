@@ -266,7 +266,79 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 ## Auto-updated Engineering Signals
 
 <!-- PROFILE-AUTO:START -->
-This section is generated automatically from public repository metadata and sanitized private experience signals.
+<sub>Last automatic update: 2026-06-27 07:26 UTC</sub>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Public Repository</th>
+    <th>Detected Stack</th>
+    <th>Engineering Signal</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/svalder98/seace-probe-gh"><b>seace-probe-gh</b></a></td>
+    <td>Shell</td>
+    <td>Software Engineering</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/svalder98/SEPHIEM"><b>SEPHIEM</b></a></td>
+    <td>TypeScript</td>
+    <td>Frontend · Web3</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/svalder98/RAG_Medical-Agent-for-Medical-Records"><b>RAG_Medical-Agent-for-Medical-Records</b></a></td>
+    <td>Python</td>
+    <td>AI Systems · Backend</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/svalder98/Trading_Deep_Reinforcement_Learning"><b>Trading_Deep_Reinforcement_Learning</b></a></td>
+    <td>Python</td>
+    <td>AI Systems · Backend</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/svalder98/Solar_energy_tokenization_of_futures"><b>Solar_energy_tokenization_of_futures</b></a></td>
+    <td>Mixed</td>
+    <td>AI Systems · Web3 · Automation</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/svalder98/FITCOIN_Personal_Health_Incentive_Token"><b>FITCOIN_Personal_Health_Incentive_Token</b></a></td>
+    <td>TypeScript</td>
+    <td>AI Systems · Frontend</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/svalder98/Skillchain_dapp"><b>Skillchain_dapp</b></a></td>
+    <td>Makefile</td>
+    <td>AI Systems · Web3</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/svalder98/Analisis_identificacion_de_patrones_para_campanas"><b>Analisis_identificacion_de_patrones_para_campanas</b></a></td>
+    <td>Jupyter Notebook</td>
+    <td>Software Engineering</td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<b>Sanitized private-project evidence</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20agent%20workflow%20design-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend%20API%20architecture-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI%20and%20PostgreSQL%20systems-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Healthcare%20marketplace%20logic-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation%20queue%20management-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Telegram%20bot%20notification%20pipelines-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web3%20wallet-based%20authentication-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DeFi%20monitoring%20concepts-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20design%20documentation-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Human-in-the-loop%20automation-0F172A?style=for-the-badge" />
+
+</div>
+
 <!-- PROFILE-AUTO:END -->
 
 ## Current Direction
