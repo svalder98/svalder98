@@ -266,7 +266,7 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 ## Auto-updated Engineering Signals
 
 <!-- PROFILE-AUTO:START -->
-<sub>Last automatic update: 2026-06-27 08:02 UTC</sub>
+<sub>Last automatic update: 2026-06-27 13:50 UTC</sub>
 
 ### Detected Stack (all repositories)
 
@@ -301,11 +301,6 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
     <td>Software Engineering</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/svalder98/SEPHIEM"><b>SEPHIEM</b></a></td>
-    <td>TypeScript</td>
-    <td>Frontend · Web3</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/svalder98/RAG_Medical-Agent-for-Medical-Records"><b>RAG_Medical-Agent-for-Medical-Records</b></a></td>
     <td>Python</td>
     <td>AI Systems · Backend</td>
@@ -334,6 +329,11 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
     <td><a href="https://github.com/svalder98/Analisis_identificacion_de_patrones_para_campanas"><b>Analisis_identificacion_de_patrones_para_campanas</b></a></td>
     <td>Jupyter Notebook</td>
     <td>Software Engineering</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/svalder98/Nueva_funcion_callmemaybe_operadores"><b>Nueva_funcion_callmemaybe_operadores</b></a></td>
+    <td>Jupyter Notebook</td>
+    <td>AI Systems</td>
   </tr>
 </table>
 
