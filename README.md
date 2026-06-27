@@ -266,15 +266,34 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 ## Auto-updated Engineering Signals
 
 <!-- PROFILE-AUTO:START -->
-<sub>Last automatic update: 2026-06-27 07:26 UTC</sub>
+<sub>Last automatic update: 2026-06-27 07:39 UTC</sub>
+
+### Detected Stack (all repositories)
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Jupyter%20Notebook%2038.5%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript%2025.6%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Makefile%2021.4%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python%209.9%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Go%201.8%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS%20·%20Frontend%200.7%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML%20·%20Frontend%200.5%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Shell%20·%20DevOps%200.5%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript%200.3%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C++%200.2%25-0F172A?style=for-the-badge" />
+
+</div>
+
+### Public Engineering Activity
 
 <div align="center">
 
 <table>
   <tr>
-    <th>Public Repository</th>
-    <th>Detected Stack</th>
-    <th>Engineering Signal</th>
+    <th>Repository</th>
+    <th>Stack</th>
+    <th>Signal</th>
   </tr>
   <tr>
     <td><a href="https://github.com/svalder98/seace-probe-gh"><b>seace-probe-gh</b></a></td>
@@ -320,11 +339,9 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 
 </div>
 
+### Private-Project Capabilities
+
 <div align="center">
-
-<b>Sanitized private-project evidence</b>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/AI%20agent%20workflow%20design-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Backend%20API%20architecture-0F172A?style=for-the-badge" />
