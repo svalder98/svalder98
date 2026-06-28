@@ -266,14 +266,14 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 ## Auto-updated Engineering Signals
 
 <!-- PROFILE-AUTO:START -->
-<sub>Last automatic update: 2026-06-28 04:12 UTC</sub>
+<sub>Last automatic update: 2026-06-28 09:16 UTC</sub>
 
 ### Detected Stack (all repositories)
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Jupyter%20Notebook%2038.5%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript%2025.6%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript%2025.5%25-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Makefile%2021.4%25-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python%209.9%25-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Go%201.8%25-0F172A?style=for-the-badge" />
