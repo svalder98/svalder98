@@ -266,16 +266,16 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 ## Auto-updated Engineering Signals
 
 <!-- PROFILE-AUTO:START -->
-<sub>Last automatic update: 2026-07-01 14:44 UTC</sub>
+<sub>Last automatic update: 2026-07-01 20:01 UTC</sub>
 
 ### Detected Stack (all repositories)
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Jupyter%20Notebook%2038.5%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript%2025.5%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Makefile%2021.4%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python%209.9%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jupyter%20Notebook%2038.1%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript%2026.1%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Makefile%2021.2%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python%209.8%25-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Go%201.8%25-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CSS%20·%20Frontend%200.7%25-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HTML%20·%20Frontend%200.5%25-0F172A?style=for-the-badge" />
