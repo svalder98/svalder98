@@ -266,7 +266,7 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 ## Auto-updated Engineering Signals
 
 <!-- PROFILE-AUTO:START -->
-<sub>Last automatic update: 2026-07-03 03:37 UTC</sub>
+<sub>Last automatic update: 2026-07-03 09:24 UTC</sub>
 
 ### Detected Stack (all repositories)
 
@@ -280,7 +280,7 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 <img src="https://img.shields.io/badge/CSS%20·%20Frontend%200.7%25-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HTML%20·%20Frontend%200.5%25-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Shell%20·%20DevOps%200.5%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript%200.3%25-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript%200.4%25-0F172A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/C++%200.2%25-0F172A?style=for-the-badge" />
 
 </div>
