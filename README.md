@@ -266,78 +266,7 @@ I design software systems where <b>AI workflows</b>, <b>backend platforms</b>, <
 ## Auto-updated Engineering Signals
 
 <!-- PROFILE-AUTO:START -->
-<sub>Last automatic update: 2026-09-25 04:10 UTC</sub>
-
-### Detected Stack (all repositories)
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Jupyter%20Notebook%2038.1%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript%2026.1%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Makefile%2021.2%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python%209.8%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Go%201.8%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CSS%20·%20Frontend%200.7%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HTML%20·%20Frontend%200.5%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Shell%20·%20DevOps%200.5%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript%200.4%25-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/C++%200.2%25-0F172A?style=for-the-badge" />
-
-</div>
-
-### Public Engineering Activity
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Repository</th>
-    <th>Stack</th>
-    <th>Signal</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/svalder98/seace-probe-gh"><b>seace-probe-gh</b></a></td>
-    <td>Shell</td>
-    <td>Software Engineering</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/svalder98/RAG_Medical-Agent-for-Medical-Records"><b>RAG_Medical-Agent-for-Medical-Records</b></a></td>
-    <td>Python</td>
-    <td>AI Systems · Backend</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/svalder98/Trading_Deep_Reinforcement_Learning"><b>Trading_Deep_Reinforcement_Learning</b></a></td>
-    <td>Python</td>
-    <td>AI Systems · Backend</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/svalder98/Solar_energy_tokenization_of_futures"><b>Solar_energy_tokenization_of_futures</b></a></td>
-    <td>Mixed</td>
-    <td>AI Systems · Web3 · Automation</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/svalder98/FITCOIN_Personal_Health_Incentive_Token"><b>FITCOIN_Personal_Health_Incentive_Token</b></a></td>
-    <td>TypeScript</td>
-    <td>AI Systems · Frontend</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/svalder98/Skillchain_dapp"><b>Skillchain_dapp</b></a></td>
-    <td>Makefile</td>
-    <td>AI Systems · Web3</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/svalder98/Analisis_identificacion_de_patrones_para_campanas"><b>Analisis_identificacion_de_patrones_para_campanas</b></a></td>
-    <td>Jupyter Notebook</td>
-    <td>Software Engineering</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/svalder98/Nueva_funcion_callmemaybe_operadores"><b>Nueva_funcion_callmemaybe_operadores</b></a></td>
-    <td>Jupyter Notebook</td>
-    <td>AI Systems</td>
-  </tr>
-</table>
-
-</div>
+<sub>Last automatic update: 2026-09-25 11:28 UTC</sub>
 
 ### Private-Project Capabilities
 
